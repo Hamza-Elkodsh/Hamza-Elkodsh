@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a0000,100:0a0a0a&height=180&text=%5B%20HAMZA%20ELKODSH%20%5D&fontSize=45&fontColor=FF4500&animation=blinking&fontAlignY=55&desc=//%20Cybersecurity%20%7C%20Ethical%20Hacker%20%7C%20Cairo%2C%20Egypt%20🇪🇬&descAlignY=80&descColor=FF6347&stroke=FF4500&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a0000,100:0a0a0a&height=30&section=header" />
+
+```
+ ____  ____  ____  ____  ____ 
+||H ||||A ||||M ||||Z ||||A ||
+||__||||__||||__||||__||||__||
+|/__\||/__\||/__\||/__\||/__\|
+
+ ____  ____  ____  ____  ____  ____  ____ 
+||E ||||L ||||K ||||O ||||D ||||S ||||H ||
+||__||||__||||__||||__||||__||||__||||__||
+|/__\||/__\||/__\||/__\||/__\||/__\||/__\|
+```
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=800&color=FF4500&center=true&vCenter=true&width=650&lines=root%40hamza%3A~%23+whoami;%3E+Cybersecurity+Enthusiast+%26+Ethical+Hacker;root%40hamza%3A~%23+cat+skills.txt;%3E+Offensive+Security+%7C+AD+Attacks+%7C+Red+Team;root%40hamza%3A~%23+echo+%24MISSION;%3E+Think+like+an+attacker%2C+defend+like+a+pro." alt="Typing SVG" />
 
 </div>
-
----
-
-```
- ██╗  ██╗ █████╗ ███╗   ███╗███████╗ █████╗ 
- ██║  ██║██╔══██╗████╗ ████║╚══███╔╝██╔══██╗
- ███████║███████║██╔████╔██║  ███╔╝ ███████║
- ██╔══██║██╔══██║██║╚██╔╝██║ ███╔╝  ██╔══██║
- ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██║  ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
-                                    [ELKODSH]
-```
 
 ---
 
