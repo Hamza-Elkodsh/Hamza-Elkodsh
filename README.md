@@ -65,27 +65,6 @@
 
 ---
 
-## 📡 Signal Strength // GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamza-Elkodsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=4fc3f7&icon_color=4fc3f7&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Elkodsh&theme=tokyonight&hide_border=true&background=0d0d2b&ring=4fc3f7&fire=ffffff&currStreakLabel=4fc3f7&sideLabels=4fc3f7&dates=ffffff" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Elkodsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=4fc3f7&text_color=ffffff" />
-
-</div>
-
----
-
-## 🏆 Stellar Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hamza-Elkodsh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
-
 ---
 
 ## 🛸 Establish Contact // Connect
