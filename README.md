@@ -1,18 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=galaxy&color=0:0d0d2b,50:0a1628,100:0d0d2b&height=220&text=Hamza%20Elkodsh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=🚀%20Cybersecurity%20Enthusiast%20%7C%20Ethical%20Hacker%20%7C%20Cairo%2C%20Egypt%20🇪🇬&descAlignY=68&descColor=4fc3f7&stroke=4fc3f7&strokeWidth=1" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=🌌+Exploring+the+universe+of+cybersecurity...;🛡️+Ethical+Hacker+in+the+Making;🔭+Offensive+Security+%7C+AD+Attacks+%7C+Red+Team;🌠+Think+like+an+attacker%2C+defend+like+a+pro;🚀+Always+Learning%2C+Always+Evolving" alt="Typing SVG" />
+# 🌌 Hamza Elkodsh 🚀
+### Cybersecurity Enthusiast | Ethical Hacker | Cairo, Egypt 🇪🇬
 
 </div>
 
 ---
 
 ## 🌌 Mission Control // About Me
-
-<img align="right" width="280" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
 ```yaml
 🛰️  Astronaut Profile:
@@ -119,6 +114,5 @@
 ✨ ·  · ★ ·  · ✨ ·  · ☆ ·  · ★ ·  · ✨ ·  · ★ ·  · ✨
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=galaxy&color=0:0d0d2b,50:0a1628,100:0d0d2b&height=120&section=footer&text=🚀%20See%20You%20in%20Cyberspace&fontSize=20&fontColor=4fc3f7&animation=fadeIn" />
 
 </div>
