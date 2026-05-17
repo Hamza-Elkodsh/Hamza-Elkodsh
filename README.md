@@ -48,6 +48,22 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+### 🌐 Networking
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-0066CC?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+---
+
+## 🎓 Certificates // Achievements
+
+<div align="center">
+
+| 🏅 | Certificate | Issuer | Status |
+|:---:|---|---|:---:|
+| 🌐 | **CCNA — Introduction to Networks (Semester 1)** | Cisco Networking Academy | ✅ Completed |
+
 </div>
 
 ---
