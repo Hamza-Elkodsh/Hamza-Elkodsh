@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🌌 Hamza Elkodsh 🚀
-### Cybersecurity Enthusiast | Ethical Hacker | Cairo, Egypt 🇪🇬
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:0a1628,100:1a237e&height=200&text=Hamza%20Elkodsh&fontSize=55&fontColor=ffffff&animation=slideIn&fontAlignY=55&desc=🚀%20Cybersecurity%20Enthusiast%20%7C%20Ethical%20Hacker%20%7C%20Cairo%2C%20Egypt%20🇪🇬&descAlignY=78&descColor=4fc3f7" />
 
 </div>
 
